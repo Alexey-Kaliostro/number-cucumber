@@ -1,3 +1,6 @@
+
+
+
 let name = prompt(`Пожалуйста введи свое имя.`);
 console.log(typeof name);
 let number;
